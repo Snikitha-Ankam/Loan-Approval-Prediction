@@ -13,11 +13,11 @@ This project aims to predict whether a loan application will be approved or reje
 -Imputed missing values using the most frequent strategy.<br>
 -Applied Label Encoding for categorical variables.<br>
 -Scaled numerical features using StandardScaler.
-# 📊 Exploratory Data Analysis
+📊 Exploratory Data Analysis
 
--Bar plots for categorical feature distributions.<br>
--Heatmap of feature correlation.<br>
--Visual relationship between variables like Gender, Married, and Loan Status.
+- Bar plots for categorical feature distributions  
+- Heatmap of feature correlation  
+- Visual relationship between variables like Gender, Married, and Loan Status  
 # 🧠 Machine Learning Models Used
 The following models were trained and evaluated:<br>
 
