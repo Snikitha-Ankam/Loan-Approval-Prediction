@@ -1,11 +1,11 @@
 # Loan-Approval-Prediction
 This project aims to predict whether a loan application will be approved or rejected using machine learning algorithms. The dataset includes personal and financial information of applicants and the loan approval status.
 # 📁 Dataset
--Source: Kaggle/Other<br>
+-Source: Kaggle/Other
 -Format: CSV
  -Key Features:
---Categorical: Gender, Married, Dependents, Education, Self_Employed, Property_Area, Loan_Status <br>
---Numerical: ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History
+    -Categorical: Gender, Married, Dependents, Education, Self_Employed, Property_Area, Loan_Status <br>
+    -Numerical: ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History
 # 🧹 Data Preprocessing
 -Dropped Loan_ID as it's an identifier.<br>
 -Imputed missing values using the most frequent strategy.<br>
